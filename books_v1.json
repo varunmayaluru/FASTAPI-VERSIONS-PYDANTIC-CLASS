@@ -1,0 +1,16 @@
+{
+    "B0001": {
+        "id": "B0001",
+        "name": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "publication_year": 1937,
+        "genre": "Fantasy"
+    },
+    "B0002": {
+        "id": "B0002",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "publication_year": 1997,
+        "genre": "Fantasy"
+    }
+}

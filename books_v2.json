@@ -1,0 +1,26 @@
+{
+    "B0001": {
+        "id": "B0001",
+        "name": "The Hobbit",
+        "author": {
+          "id": "A0001",
+          "name": "J. R. R. Tolkien",
+          "birthdate": "1892-01-03",
+          "nationality": "South Africa"
+        },
+        "publication_year": 1937,
+        "genre": "Fantasy"
+    },
+    "B0002": {
+        "id": "B0002",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "author": {
+            "id": "A0002",
+            "name": "J. K. Rowling",
+            "birthdate": "1965-07-31",
+            "nationality": "United Kingdom"
+        },
+        "publication_year": 1997,
+        "genre": "Fantasy"
+    }
+}
